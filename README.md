@@ -53,6 +53,14 @@ PROJECT_BASE_URL=leto-volovo.ru
 docker-compose up -d
 ```
 
+Переходим по адресу http://leto-volovo.ru:8000 и проходим стандартный процесс установки WordPress.
+Плагины и темы можно ставить черех админку или WP-CLI через вызовы типа:
+
+```
+make wp plugin install woocommerce
+make wp plugin activate woocommerce
+```
+
 ## Домены
 
 Сразу после запуска получим работающий сайт и домены
