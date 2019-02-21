@@ -4,7 +4,15 @@
 
 ![](./assets/77fgBUhHuF0.jpg)
 
-## Направим тестовый домен (leto-volovo.ru) на наш VDS
+## Исходные данные (Guru)
+- CPU - 2 x 2.4 ГГц
+- RAM - 2 ГБ
+- SSD - 40 ГБ
+- ОС - Ubuntu 18.04
+
+## Привязка тестового домена
+
+Направим тестовый домен `leto-volovo.ru` на наш VDS с IP `188.225.58.119`
 
 Идём в список своих доменов https://hosting.timeweb.ru/domains 
 
