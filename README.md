@@ -65,6 +65,7 @@ make wp plugin activate woocommerce
 
 - [pj-object-cache-red](https://github.com/pressjitsu/pj-object-cache-red)
 - [WP Rocket](https://wp-rocket.me/)
+- [WooCommerce](https://wordpress.org/plugins/woocommerce/)
 
 ## Домены
 
