@@ -119,3 +119,4 @@ WordPress стэк состоит из контейнеров:
 
 ![](http://screenshot.kobzarev.com/2019-02-21-1550743020.png)
 ![](http://screenshot.kobzarev.com/2019-02-21-1550743397.png)
+![](http://screenshot.kobzarev.com/2019-02-21-1550743439.png)
