@@ -114,3 +114,7 @@ WordPress стэк состоит из контейнеров:
 - [GTmetrix](https://gtmetrix.com)
 - [WebPageTest](https://www.webpagetest.org)
 - [PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/)
+
+Результаты
+
+![](http://screenshot.kobzarev.com/2019-02-21-1550743020.png)
