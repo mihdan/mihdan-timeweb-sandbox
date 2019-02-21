@@ -61,6 +61,11 @@ make wp plugin install woocommerce
 make wp plugin activate woocommerce
 ```
 
+В данной сборке установлены следующие плагины:
+
+- [pj-object-cache-red](https://github.com/pressjitsu/pj-object-cache-red)
+- [WP Rocket](https://wp-rocket.me/)
+
 ## Домены
 
 Сразу после запуска получим работающий сайт и домены
