@@ -118,13 +118,34 @@ WordPress стэк состоит из контейнеров:
 
 Берем самые популярные сервисы по тестированию:
 
-- [Pingdom Website Speed Test](https://tools.pingdom.com)
-- [GTmetrix](https://gtmetrix.com)
-- [WebPageTest](https://www.webpagetest.org)
-- [PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/)
+- [Measure](https://web.dev/measure)
+- [GTmetrix](https://gtmetrix.com/reports/leto-volovo.ru/K01Gh7ul)
+- [WebPageTest](https://www.webpagetest.org/result/190221_YM_07d76fee9d3bd4b5c27504affeb816fa/)
+- [Loaddy](https://loaddy.com/result/527566779/)
+- [Alertra](https://www.alertra.com/)
 
-Результаты
+Генерим 100 тестовых записей через `WP-CLI`:
 
-![](http://screenshot.kobzarev.com/2019-02-21-1550743020.png)
-![](http://screenshot.kobzarev.com/2019-02-21-1550743397.png)
-![](http://screenshot.kobzarev.com/2019-02-21-1550743439.png)
+```
+make wp post generate
+```
+
+## Measure
+![](http://screenshot.kobzarev.com/2019-02-21-1550755101.png)
+
+## GTmetrix
+
+![](http://screenshot.kobzarev.com/2019-02-21-1550755135.png)
+
+## WebPageTest
+
+![](http://screenshot.kobzarev.com/2019-02-21-1550755192.png)
+
+## Loaddy
+
+![](http://screenshot.kobzarev.com/2019-02-21-1550754642.png)
+
+## Alertra
+
+![](http://screenshot.kobzarev.com/2019-02-21-1550754782.png)
+
