@@ -157,3 +157,6 @@ make wp post generate
 
 ![](http://screenshot.kobzarev.com/2019-02-21-1550754782.png)
 
+# Код - это поэзия
+
+Всё будет WordPress!
