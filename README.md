@@ -50,3 +50,15 @@ PROJECT_BASE_URL=leto-volovo.ru
 ```
 docker-compose up -d
 ```
+
+Сразу после запуска получим работающий сайт и домены
+
+Service | Domain
+--------|-------
+nginx/apache | http://leto-volovo.ru:8000
+pma	| http://pma.leto-volovo.ru:8000
+adminer	| http://adminer.leto-volovo.ru:8000
+mailhog	| http://mailhog.leto-volovo.ru:8000
+varnish	| http://varnish.leto-volovo.ru:8000
+portainer	| http://portainer.leto-volovo.ru:8000
+webgrind | http://webgrind.leto-volovo.ru:8000
