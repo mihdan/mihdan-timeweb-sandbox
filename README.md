@@ -1,4 +1,6 @@
-# mihdan-timeweb-sandbox
+# Mihdan: Timeweb Sandbox
+
+Песочница для тестирования своих сборок под VDS от Timeweb
 
 ## Направим тестовый домен (leto-volovo.ru) на наш VDS
 
