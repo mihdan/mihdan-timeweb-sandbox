@@ -1,6 +1,8 @@
 # Mihdan: Timeweb Sandbox
 
-Песочница для тестирования своих сборок под VDS от [Timeweb](https://www.kobzarev.com/r/timeweb/).
+Песочница для тестирования своей сборки на основе [Wodby](https://wodby.com/) под WordPress на VDS от [Timeweb](https://www.kobzarev.com/r/timeweb/).
+
+![](./assets/77fgBUhHuF0.jpg)
 
 ## Направим тестовый домен (leto-volovo.ru) на наш VDS
 
