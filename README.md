@@ -105,3 +105,12 @@ WordPress стэк состоит из контейнеров:
 | phpMyAdmin      | latest              | `pma`           | [phpmyadmin/phpmyadmin]            |         |
 | Portainer       | latest              | `portainer`     | [portainer/portainer]              | ✓       |
 | Traefik         | latest              | `traefik`       | [_/traefik]                        | ✓       |
+
+# Тестирование
+
+Берем самые популярные сервисы по тестированию:
+
+- [Pingdom Website Speed Test](https://tools.pingdom.com)
+- [GTmetrix](https://gtmetrix.com)
+- [WebPageTest](https://www.webpagetest.org)
+- [PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/)
